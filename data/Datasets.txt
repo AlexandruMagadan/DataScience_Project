@@ -1,0 +1,11 @@
+# Sorgenti dei Dataset
+
+I dati utilizzati in questo progetto provengono dalle seguenti fonti pubbliche:
+
+1. **Major Cities Weather Data**: 
+   [https://www.kaggle.com/datasets/wafaaelhusseini/major-cities-weather-data](https://www.kaggle.com/datasets/wafaaelhusseini/major-cities-weather-data)
+   - Utilizzato per l'analisi meteorologica storica (1995-2024).
+
+2. **Natural Earth Data (Country Boundaries)**: 
+   [https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson](https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson)
+   - Utilizzato per la mappatura geografica e la proiezione spaziale.
